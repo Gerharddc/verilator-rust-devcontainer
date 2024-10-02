@@ -1,0 +1,12 @@
+// For format details, see https://aka.ms/devcontainer.json
+{
+	"image": "ghcr.io/gerharddc/verilator-rust-devcontainer:main",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-vscode.cpptools-extension-pack",
+				"trunk.io"
+			]
+		}
+	}
+}
