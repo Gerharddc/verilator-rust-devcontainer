@@ -4,6 +4,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
+				"mshr-h.veriloghdl",
 				"ms-vscode.cpptools-extension-pack",
 				"trunk.io"
 			]
